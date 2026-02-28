@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/dao/EtudiantDaoImpl.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/connexion/SingletonConnection.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/presentation/MainFrame.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/presentation/PanelAccueil.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/dao/ModuleDaoImpl.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/test/TestConsole.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/connexion/Connexion.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/entites/Module.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/gestionnotesscolaires/GestionNotesScolaires.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/dao/NoteDaoImpl.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/entites/Etudiant.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/entites/Note.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/dao/IDao.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/presentation/PanelModule.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/presentation/PanelNote.java</file>
+            <file>file:/C:/Users/pc/OneDrive/Documents/NetBeansProjects/GestionNotesScolaires/src/presentation/PanelEtudiant.java</file>
+        </group>
+    </open-files>
+</project-private>
